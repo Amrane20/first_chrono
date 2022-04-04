@@ -1,2 +1,2 @@
 # first_chrono
-awal chrono hhhhhhhhhhhhhhh
+firs chrono
